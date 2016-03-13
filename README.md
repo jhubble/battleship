@@ -1,2 +1,2 @@
 # battleship
-simple battleship game
+A single page battleship game with no external dependencies.  Runs in modern browsers.
